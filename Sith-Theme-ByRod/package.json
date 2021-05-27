@@ -1,0 +1,22 @@
+{
+    "name": "Sith-Theme-ByRod",
+    "displayName": "Sith Theme ByRod",
+    "description": "A Theme Made For The Siths!!!!",
+    "version": "0.0.1",
+    "publisher": "RodStqtic",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sith Theme ByRod",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sith Theme ByRod-color-theme.json"
+            }
+        ]
+    }
+}
