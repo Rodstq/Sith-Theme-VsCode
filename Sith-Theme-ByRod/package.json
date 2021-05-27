@@ -4,6 +4,10 @@
     "description": "A Theme Made For The Siths!!!!",
     "version": "0.0.1",
     "publisher": "RodStqtic",
+    "repository": {
+          "type": "git",
+          "url": "https://github.com/Rodstq/Sith-Theme-VsCode"
+    },
     "engines": {
         "vscode": "^1.56.0"
     },
